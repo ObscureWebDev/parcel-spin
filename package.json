@@ -1,0 +1,8 @@
+{
+  "name": "parcel-spin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ObscureWebDev/parcel-spin.git",
+  "author": "Daniel <github@profoundideation.com>",
+  "license": "MIT"
+}
