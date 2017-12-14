@@ -164,7 +164,7 @@ console.log("hello world"); // import another component
 
 (0, _main2.default)();
 
-console.log("hello world");
+console.log("hello World");
 },{"./main":6}],0:[function(require,module,exports) {
 var global = (1, eval)('this');
 var OldModule = module.bundle.Module;
