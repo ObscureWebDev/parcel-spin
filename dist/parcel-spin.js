@@ -134,7 +134,7 @@ module.exports = reloadCSS;
         module.hot.dispose(reloadCSS);
         module.hot.accept(reloadCSS);
       
-},{"_css_loader":9,"./images\\background.png":["8f0e1d8f21357e3484c3a28b94155097.png",10]}],6:[function(require,module,exports) {
+},{"./images\\background.png":["8f0e1d8f21357e3484c3a28b94155097.png",10],"_css_loader":9}],6:[function(require,module,exports) {
 "use strict";
 
 Object.defineProperty(exports, "__esModule", {
